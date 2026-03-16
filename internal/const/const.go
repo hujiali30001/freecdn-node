@@ -1,10 +1,10 @@
 package teaconst
 
 const (
-	Version = "0.9.0"
+	Version = "0.9.1"
 
 	// GoEdgeVersion 是本项目基于的 GoEdge 上游版本
-	GoEdgeVersion = "0.9.0"
+	GoEdgeVersion = "0.9.1"
 
 	ProductName = "Edge Node"
 	ProcessName = "edge-node"
