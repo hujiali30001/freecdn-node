@@ -1,7 +1,7 @@
 package teaconst
 
 const (
-	Version = "0.6.0"
+	Version = "0.7.0"
 
 	// GoEdgeVersion 是本项目基于的 GoEdge 上游版本
 	GoEdgeVersion = "1.3.9"
