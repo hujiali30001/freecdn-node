@@ -3,7 +3,7 @@
 package expires_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/expires"
+	"github.com/hujiali30001/freecdn-node/internal/utils/expires"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
 	"testing"

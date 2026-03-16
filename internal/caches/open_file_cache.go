@@ -4,9 +4,9 @@ package caches
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/linkedlist"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-node/internal/utils/linkedlist"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"github.com/fsnotify/fsnotify"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/types"

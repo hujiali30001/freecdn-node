@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
 	"time"
 )
 

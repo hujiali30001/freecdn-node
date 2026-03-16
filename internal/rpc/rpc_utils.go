@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/configs"
+	"github.com/hujiali30001/freecdn-node/internal/configs"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"strings"

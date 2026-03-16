@@ -4,8 +4,8 @@ package compressions
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"io"
 	"net/http"
 	"runtime"

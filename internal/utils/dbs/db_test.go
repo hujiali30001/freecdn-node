@@ -3,7 +3,7 @@
 package dbs_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/dbs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/dbs"
 	"net/url"
 	"testing"
 )

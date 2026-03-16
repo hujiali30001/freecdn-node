@@ -3,7 +3,7 @@
 package fsutils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fs"
 	"testing"
 )
 

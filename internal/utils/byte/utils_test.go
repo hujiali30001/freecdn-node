@@ -4,7 +4,7 @@ package byteutils_test
 
 import (
 	"bytes"
-	byteutils "github.com/TeaOSLab/EdgeNode/internal/utils/byte"
+	byteutils "github.com/hujiali30001/freecdn-node/internal/utils/byte"
 	"github.com/iwind/TeaGo/assert"
 	"testing"
 )

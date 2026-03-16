@@ -3,8 +3,8 @@
 package syncutils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/stats"
-	syncutils "github.com/TeaOSLab/EdgeNode/internal/utils/sync"
+	"github.com/hujiali30001/freecdn-node/internal/stats"
+	syncutils "github.com/hujiali30001/freecdn-node/internal/utils/sync"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/types"
 	"sync"

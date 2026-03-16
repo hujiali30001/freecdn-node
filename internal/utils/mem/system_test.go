@@ -3,7 +3,7 @@
 package memutils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"testing"
 )
 

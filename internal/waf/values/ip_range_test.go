@@ -3,7 +3,7 @@
 package values_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf/values"
+	"github.com/hujiali30001/freecdn-node/internal/waf/values"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
 	"testing"

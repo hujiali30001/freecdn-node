@@ -4,7 +4,7 @@ package ratelimit
 
 import (
 	"context"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
 	"sync/atomic"
 	"time"
 )

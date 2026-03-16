@@ -3,7 +3,7 @@
 package rpc_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
+	"github.com/hujiali30001/freecdn-node/internal/rpc"
 	"testing"
 )
 

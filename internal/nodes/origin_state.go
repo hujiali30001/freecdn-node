@@ -2,7 +2,7 @@
 
 package nodes
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
+import "github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
 
 type OriginState struct {
 	CountFails   int64

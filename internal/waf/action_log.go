@@ -1,7 +1,7 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"net/http"
 )
 

@@ -5,8 +5,8 @@
 package nftables_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls/nftables"
-	executils "github.com/TeaOSLab/EdgeNode/internal/utils/exec"
+	"github.com/hujiali30001/freecdn-node/internal/firewalls/nftables"
+	executils "github.com/hujiali30001/freecdn-node/internal/utils/exec"
 	"testing"
 )
 

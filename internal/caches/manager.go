@@ -2,12 +2,12 @@ package caches
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/events"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/types"
 	"golang.org/x/sys/unix"

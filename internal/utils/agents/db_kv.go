@@ -4,8 +4,8 @@ package agents
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/kvstore"
+	"github.com/hujiali30001/freecdn-node/internal/events"
+	"github.com/hujiali30001/freecdn-node/internal/utils/kvstore"
 )
 
 type KVDB struct {

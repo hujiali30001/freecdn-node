@@ -3,7 +3,7 @@
 package fasttime_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
 	timeutil "github.com/iwind/TeaGo/utils/time"
 	"testing"
 	"time"

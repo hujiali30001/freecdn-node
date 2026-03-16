@@ -3,7 +3,7 @@
 package teaconst
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/nodeconfigs"
 	"os"
 	"strings"
 )

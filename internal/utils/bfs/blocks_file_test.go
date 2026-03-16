@@ -3,7 +3,7 @@
 package bfs_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/bfs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/bfs"
 	"github.com/iwind/TeaGo/assert"
 	"os"
 	"testing"

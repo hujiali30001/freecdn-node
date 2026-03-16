@@ -3,7 +3,7 @@
 package bfs
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/percpu"
+	"github.com/hujiali30001/freecdn-node/internal/utils/percpu"
 	"github.com/klauspost/compress/gzip"
 	"io"
 	"runtime"

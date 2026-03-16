@@ -2,8 +2,8 @@ package checkpoints
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/waf/utils"
 	"github.com/iwind/TeaGo/lists"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"

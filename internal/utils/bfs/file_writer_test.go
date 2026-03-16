@@ -4,9 +4,9 @@ package bfs_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/bfs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/bfs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"github.com/iwind/TeaGo/logs"
 	"net/http"
 	"testing"

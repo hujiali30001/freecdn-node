@@ -3,7 +3,7 @@
 package utils
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/events"
+	"github.com/hujiali30001/freecdn-node/internal/events"
 	"os"
 )
 

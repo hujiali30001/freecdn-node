@@ -2,7 +2,7 @@
 
 package iplibrary
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
+import "github.com/hujiali30001/freecdn-common/pkg/rpc/pb"
 
 type IPListDB interface {
 	Name() string

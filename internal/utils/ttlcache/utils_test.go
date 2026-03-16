@@ -1,9 +1,9 @@
 package ttlcache_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ttlcache"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/ttlcache"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"github.com/cespare/xxhash/v2"
 	"runtime"
 	"strconv"

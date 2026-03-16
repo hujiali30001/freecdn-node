@@ -5,8 +5,8 @@ package bfs
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"io"
 	"os"
 	"sync"

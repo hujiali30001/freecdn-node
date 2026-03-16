@@ -1,7 +1,7 @@
 package encrypt_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/encrypt"
+	"github.com/hujiali30001/freecdn-node/internal/utils/encrypt"
 	"testing"
 )
 

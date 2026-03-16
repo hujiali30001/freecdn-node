@@ -3,7 +3,7 @@
 package nftables_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls/nftables"
+	"github.com/hujiali30001/freecdn-node/internal/firewalls/nftables"
 	"github.com/iwind/TeaGo/rands"
 	"github.com/iwind/TeaGo/types"
 	"net"

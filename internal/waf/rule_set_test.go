@@ -2,8 +2,8 @@ package waf_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/waf"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/waf"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"github.com/cespare/xxhash/v2"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/maps"

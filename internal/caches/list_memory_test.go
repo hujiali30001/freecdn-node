@@ -2,8 +2,8 @@ package caches_test
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"github.com/cespare/xxhash/v2"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/rands"

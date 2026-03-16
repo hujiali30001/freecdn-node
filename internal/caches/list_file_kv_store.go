@@ -4,9 +4,9 @@ package caches
 
 import (
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/kvstore"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ttlcache"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/kvstore"
+	"github.com/hujiali30001/freecdn-node/internal/utils/ttlcache"
 	"github.com/cockroachdb/pebble"
 	"regexp"
 	"strings"

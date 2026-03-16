@@ -3,11 +3,11 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/monitor"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-common/pkg/nodeconfigs"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/events"
+	"github.com/hujiali30001/freecdn-node/internal/monitor"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
 	"github.com/iwind/TeaGo/maps"
 	"sync/atomic"
 	"time"

@@ -3,8 +3,8 @@
 package re_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/re"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/re"
 	"github.com/iwind/TeaGo/assert"
 	"regexp"
 	"strings"

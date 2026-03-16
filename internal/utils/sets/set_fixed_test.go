@@ -3,7 +3,7 @@
 package setutils_test
 
 import (
-	setutils "github.com/TeaOSLab/EdgeNode/internal/utils/sets"
+	setutils "github.com/hujiali30001/freecdn-node/internal/utils/sets"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/rands"
 	"testing"

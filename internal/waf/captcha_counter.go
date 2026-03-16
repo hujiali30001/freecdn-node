@@ -3,9 +3,9 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/counters"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/counters"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"github.com/iwind/TeaGo/types"
 	"time"
 )

@@ -2,7 +2,7 @@ package bytepool_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/bytepool"
+	"github.com/hujiali30001/freecdn-node/internal/utils/bytepool"
 	"runtime"
 	"sync"
 	"testing"

@@ -2,12 +2,12 @@ package nodes
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-common/pkg/rpc/pb"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-node/internal/rpc"
+	"github.com/hujiali30001/freecdn-node/internal/utils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 	"strings"

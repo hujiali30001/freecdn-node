@@ -4,10 +4,10 @@ package nodes_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/nodes"
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-common/pkg/rpc/pb"
+	"github.com/hujiali30001/freecdn-node/internal/nodes"
+	"github.com/hujiali30001/freecdn-node/internal/rpc"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"google.golang.org/grpc/status"
 	"reflect"

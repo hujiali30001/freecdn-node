@@ -10,8 +10,8 @@ package injectionutils
 */
 import "C"
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/waf/utils"
 	"github.com/cespare/xxhash/v2"
 	"net/url"
 	"strconv"

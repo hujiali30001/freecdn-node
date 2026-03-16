@@ -3,8 +3,8 @@
 package fasttime
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
 	"github.com/iwind/TeaGo/types"
 	timeutil "github.com/iwind/TeaGo/utils/time"
 	"time"

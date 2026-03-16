@@ -3,9 +3,9 @@ package nodes
 import (
 	"crypto/rand"
 	"fmt"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/ranges"
 	"github.com/iwind/TeaGo/types"
 	"io"
 	"net/http"

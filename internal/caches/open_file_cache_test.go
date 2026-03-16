@@ -3,8 +3,8 @@
 package caches_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"github.com/iwind/TeaGo/types"
 	"testing"
 	"time"

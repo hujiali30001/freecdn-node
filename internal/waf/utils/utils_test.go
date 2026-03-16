@@ -1,9 +1,9 @@
 package utils_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/re"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/re"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/waf/utils"
 	"github.com/iwind/TeaGo/rands"
 	"net/http"
 	"regexp"

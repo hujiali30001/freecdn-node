@@ -3,7 +3,7 @@
 package linkedlist_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/linkedlist"
+	"github.com/hujiali30001/freecdn-node/internal/utils/linkedlist"
 	"github.com/iwind/TeaGo/types"
 	"runtime"
 	"strconv"

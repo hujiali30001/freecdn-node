@@ -3,12 +3,12 @@
 package iplibrary
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/dbs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/idles"
+	"github.com/hujiali30001/freecdn-common/pkg/rpc/pb"
+	"github.com/hujiali30001/freecdn-node/internal/events"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/dbs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-node/internal/utils/idles"
 	"github.com/iwind/TeaGo/Tea"
 	"os"
 	"path/filepath"

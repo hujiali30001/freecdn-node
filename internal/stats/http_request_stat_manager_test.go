@@ -1,7 +1,7 @@
 package stats
 
 import (
-	iplib "github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
+	iplib "github.com/hujiali30001/freecdn-common/pkg/iplibrary"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"github.com/iwind/TeaGo/logs"
 	"testing"

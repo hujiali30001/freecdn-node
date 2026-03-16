@@ -3,7 +3,7 @@
 
 package nodes
 
-import "github.com/TeaOSLab/EdgeNode/internal/rpc"
+import "github.com/hujiali30001/freecdn-node/internal/rpc"
 
 func (this *Node) execScriptsChangedTask() error {
 	// stub

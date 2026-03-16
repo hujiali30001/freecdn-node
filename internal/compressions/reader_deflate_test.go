@@ -4,7 +4,7 @@ package compressions_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/compressions"
+	"github.com/hujiali30001/freecdn-node/internal/compressions"
 	"io"
 	"testing"
 )

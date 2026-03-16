@@ -3,12 +3,12 @@
 package caches
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fnv"
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fnv"
+	fsutils "github.com/hujiali30001/freecdn-node/internal/utils/fs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"sync"
 )
 

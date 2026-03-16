@@ -4,12 +4,12 @@ package monitor
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/events"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/rpc"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-common/pkg/rpc/pb"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/events"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-node/internal/rpc"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
 	"github.com/iwind/TeaGo/maps"
 	"time"
 )

@@ -3,8 +3,8 @@
 package percpu_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/percpu"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	"github.com/hujiali30001/freecdn-node/internal/utils/percpu"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"testing"
 )
 

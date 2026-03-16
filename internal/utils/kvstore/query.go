@@ -6,7 +6,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	byteutils "github.com/TeaOSLab/EdgeNode/internal/utils/byte"
+	byteutils "github.com/hujiali30001/freecdn-node/internal/utils/byte"
 )
 
 type DataType = int

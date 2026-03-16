@@ -3,7 +3,7 @@
 package nodes_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/nodes"
+	"github.com/hujiali30001/freecdn-node/internal/nodes"
 	"testing"
 )
 

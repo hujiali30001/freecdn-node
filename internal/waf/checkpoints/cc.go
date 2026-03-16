@@ -1,9 +1,9 @@
 package checkpoints
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/counters"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/counters"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/waf/utils"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"
 	"regexp"

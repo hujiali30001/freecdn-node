@@ -4,8 +4,8 @@ package kvstore_test
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/kvstore"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/kvstore"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"runtime"
 	"testing"
 	"time"

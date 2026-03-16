@@ -3,7 +3,7 @@
 package metrics_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/metrics"
+	"github.com/hujiali30001/freecdn-node/internal/metrics"
 	"github.com/iwind/TeaGo/assert"
 	"testing"
 )

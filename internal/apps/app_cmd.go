@@ -3,8 +3,8 @@ package apps
 import (
 	"errors"
 	"fmt"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	executils "github.com/TeaOSLab/EdgeNode/internal/utils/exec"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	executils "github.com/hujiali30001/freecdn-node/internal/utils/exec"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/maps"
 	"github.com/iwind/TeaGo/types"

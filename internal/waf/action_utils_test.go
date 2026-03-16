@@ -1,7 +1,7 @@
 package waf_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf"
+	"github.com/hujiali30001/freecdn-node/internal/waf"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
 	"github.com/iwind/TeaGo/maps"

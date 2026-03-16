@@ -1,8 +1,8 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"github.com/iwind/TeaGo/types"
 	"net/http"
 )

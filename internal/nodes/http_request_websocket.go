@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/bytepool"
+	"github.com/hujiali30001/freecdn-node/internal/utils/bytepool"
 	"io"
 	"net/http"
 	"net/url"

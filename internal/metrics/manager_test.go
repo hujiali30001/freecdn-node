@@ -3,8 +3,8 @@
 package metrics_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/metrics"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/metrics"
 	"testing"
 )
 

@@ -3,7 +3,7 @@
 
 package nodes
 
-import "github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
+import "github.com/hujiali30001/freecdn-common/pkg/nodeconfigs"
 
 var sharedTOAManager = NewTOAManager()
 

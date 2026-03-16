@@ -1,9 +1,9 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/errors"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/errors"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
 	"strconv"
 	"sync"
 )

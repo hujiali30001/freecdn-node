@@ -3,9 +3,9 @@
 package nodes_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
-	"github.com/TeaOSLab/EdgeNode/internal/nodes"
+	"github.com/hujiali30001/freecdn-common/pkg/nodeconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
+	"github.com/hujiali30001/freecdn-node/internal/nodes"
 	"testing"
 )
 

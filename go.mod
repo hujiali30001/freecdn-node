@@ -1,15 +1,15 @@
-module github.com/TeaOSLab/EdgeNode
+module github.com/hujiali30001/freecdn-node
 
 go 1.21
 
 replace (
-	github.com/TeaOSLab/EdgeCommon => github.com/hujiali30001/EdgeCommon v1.3.10-0.20260315182923-7ed7574dde08
+	github.com/hujiali30001/freecdn-common => github.com/hujiali30001/EdgeCommon v1.3.10-0.20260315182923-7ed7574dde08
 	github.com/dchest/captcha => github.com/iwind/captcha v0.0.0-20231130092438-ae985686ed84
 	github.com/fsnotify/fsnotify => github.com/iwind/fsnotify v1.5.2-0.20220817040843-193be2051ff4
 )
 
 require (
-	github.com/TeaOSLab/EdgeCommon v0.0.0-00010101000000-000000000000
+	github.com/hujiali30001/freecdn-common v0.0.0-00010101000000-000000000000
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
 	github.com/andybalholm/brotli v1.0.5
 	github.com/aws/aws-sdk-go v1.44.279

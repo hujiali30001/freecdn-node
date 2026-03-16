@@ -3,8 +3,8 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/utils"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"github.com/iwind/TeaGo/types"
 	"net/http"
 	"time"

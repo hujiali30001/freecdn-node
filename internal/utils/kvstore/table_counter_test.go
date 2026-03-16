@@ -3,7 +3,7 @@
 package kvstore_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/kvstore"
+	"github.com/hujiali30001/freecdn-node/internal/utils/kvstore"
 	"runtime"
 	"testing"
 )

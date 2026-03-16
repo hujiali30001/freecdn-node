@@ -1,7 +1,7 @@
 package configs_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/configs"
+	"github.com/hujiali30001/freecdn-node/internal/configs"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"gopkg.in/yaml.v3"
 	"testing"

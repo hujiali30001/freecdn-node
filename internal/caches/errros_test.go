@@ -5,7 +5,7 @@ package caches_test
 import (
 	"errors"
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
 	"github.com/iwind/TeaGo/assert"
 	"testing"
 )

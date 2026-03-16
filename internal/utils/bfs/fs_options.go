@@ -3,8 +3,8 @@
 package bfs
 
 import (
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
+	fsutils "github.com/hujiali30001/freecdn-node/internal/utils/fs"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
 	"time"
 )
 

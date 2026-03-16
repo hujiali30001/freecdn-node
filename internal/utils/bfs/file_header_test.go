@@ -4,8 +4,8 @@ package bfs_test
 
 import (
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/bfs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/bfs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
 	"math/rand"

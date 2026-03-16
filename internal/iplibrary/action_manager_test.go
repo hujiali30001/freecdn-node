@@ -1,7 +1,7 @@
 package iplibrary
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
 	"github.com/iwind/TeaGo/maps"
 	"testing"
 )

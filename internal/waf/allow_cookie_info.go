@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/binary"
 	"errors"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
+	"github.com/hujiali30001/freecdn-node/internal/utils"
 )
 
 type AllowCookieInfo struct {

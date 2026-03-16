@@ -4,12 +4,12 @@ package caches
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fnv"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ttlcache"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fnv"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-node/internal/utils/ttlcache"
 	"github.com/iwind/TeaGo/types"
 	"strings"
 	"testing"

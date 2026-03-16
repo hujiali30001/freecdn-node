@@ -4,10 +4,10 @@ package firewalls
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/conns"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	executils "github.com/TeaOSLab/EdgeNode/internal/utils/exec"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-node/internal/conns"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	executils "github.com/hujiali30001/freecdn-node/internal/utils/exec"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
 	"github.com/iwind/TeaGo/types"
 	"strings"
 	"time"

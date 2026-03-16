@@ -4,9 +4,9 @@ package nodes
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeCommon/pkg/rpc/pb"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
+	"github.com/hujiali30001/freecdn-common/pkg/rpc/pb"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
 	"github.com/iwind/TeaGo/types"
 	"net"
 	"os"

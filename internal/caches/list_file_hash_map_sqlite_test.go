@@ -3,9 +3,9 @@
 package caches_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/rands"

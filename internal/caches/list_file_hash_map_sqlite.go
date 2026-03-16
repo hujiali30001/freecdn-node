@@ -3,8 +3,8 @@
 package caches
 
 import (
-	memutils "github.com/TeaOSLab/EdgeNode/internal/utils/mem"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	memutils "github.com/hujiali30001/freecdn-node/internal/utils/mem"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"math/big"
 	"sync"
 )

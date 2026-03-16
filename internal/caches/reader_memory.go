@@ -2,7 +2,7 @@ package caches
 
 import (
 	"errors"
-	rangeutils "github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
+	rangeutils "github.com/hujiali30001/freecdn-node/internal/utils/ranges"
 	"io"
 )
 

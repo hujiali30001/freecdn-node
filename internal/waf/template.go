@@ -1,8 +1,8 @@
 package waf
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/utils"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/waf/utils"
 )
 
 func Template() (*WAF, error) {

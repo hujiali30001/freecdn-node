@@ -3,8 +3,8 @@
 package fsutils_test
 
 import (
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	fsutils "github.com/hujiali30001/freecdn-node/internal/utils/fs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"github.com/iwind/TeaGo/assert"
 	"math/rand"
 	"sync"

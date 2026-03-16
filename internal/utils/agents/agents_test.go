@@ -3,7 +3,7 @@
 package agents_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/agents"
+	"github.com/hujiali30001/freecdn-node/internal/utils/agents"
 	"testing"
 )
 

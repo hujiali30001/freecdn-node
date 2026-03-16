@@ -2,7 +2,7 @@ package checkpoints
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"github.com/iwind/TeaGo/types"
 	"io"
 	"net/http"

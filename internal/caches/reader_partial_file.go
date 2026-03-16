@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
-	rangeutils "github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
+	fsutils "github.com/hujiali30001/freecdn-node/internal/utils/fs"
+	rangeutils "github.com/hujiali30001/freecdn-node/internal/utils/ranges"
 	"github.com/iwind/TeaGo/types"
 	"io"
 )

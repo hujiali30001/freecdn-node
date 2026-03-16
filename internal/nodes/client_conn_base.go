@@ -4,8 +4,8 @@ package nodes
 
 import (
 	"crypto/tls"
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls"
-	"github.com/TeaOSLab/EdgeNode/internal/iplibrary"
+	"github.com/hujiali30001/freecdn-node/internal/firewalls"
+	"github.com/hujiali30001/freecdn-node/internal/iplibrary"
 	"net"
 	"sync/atomic"
 	"time"

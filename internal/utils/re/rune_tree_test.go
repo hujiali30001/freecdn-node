@@ -3,7 +3,7 @@
 package re_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/re"
+	"github.com/hujiali30001/freecdn-node/internal/utils/re"
 	"github.com/iwind/TeaGo/assert"
 	"regexp"
 	"testing"

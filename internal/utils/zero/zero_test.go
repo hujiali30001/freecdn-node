@@ -3,7 +3,7 @@
 package zero_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"runtime"
 	"testing"
 )

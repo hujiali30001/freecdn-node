@@ -1,8 +1,8 @@
 package nodes
 
 import (
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"github.com/iwind/TeaGo/assert"
 	"runtime"
 	"sync"

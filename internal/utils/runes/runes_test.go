@@ -3,8 +3,8 @@
 package runes_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/re"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/runes"
+	"github.com/hujiali30001/freecdn-node/internal/utils/re"
+	"github.com/hujiali30001/freecdn-node/internal/utils/runes"
 	"github.com/iwind/TeaGo/assert"
 	"regexp"
 	"runtime"

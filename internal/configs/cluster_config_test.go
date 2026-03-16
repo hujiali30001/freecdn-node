@@ -3,8 +3,8 @@
 package configs_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/configs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/configs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"gopkg.in/yaml.v3"
 	"testing"
 )

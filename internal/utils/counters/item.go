@@ -3,7 +3,7 @@
 package counters
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
 )
 
 const spanMaxValue = 10_000_000

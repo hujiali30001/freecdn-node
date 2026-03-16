@@ -1,14 +1,14 @@
 package utils
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/iplibrary"
-	teaconst "github.com/TeaOSLab/EdgeNode/internal/const"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/agents"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/cachehits"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/fasttime"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/re"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ttlcache"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-common/pkg/iplibrary"
+	teaconst "github.com/hujiali30001/freecdn-node/internal/const"
+	"github.com/hujiali30001/freecdn-node/internal/utils/agents"
+	"github.com/hujiali30001/freecdn-node/internal/utils/cachehits"
+	"github.com/hujiali30001/freecdn-node/internal/utils/fasttime"
+	"github.com/hujiali30001/freecdn-node/internal/utils/re"
+	"github.com/hujiali30001/freecdn-node/internal/utils/ttlcache"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"github.com/cespare/xxhash/v2"
 	"github.com/iwind/TeaGo/types"
 	stringutil "github.com/iwind/TeaGo/utils/string"

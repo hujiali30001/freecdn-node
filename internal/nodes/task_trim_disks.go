@@ -4,10 +4,10 @@ package nodes
 
 import (
 	"fmt"
-	"github.com/TeaOSLab/EdgeNode/internal/remotelogs"
-	executils "github.com/TeaOSLab/EdgeNode/internal/utils/exec"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/idles"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/trackers"
+	"github.com/hujiali30001/freecdn-node/internal/remotelogs"
+	executils "github.com/hujiali30001/freecdn-node/internal/utils/exec"
+	"github.com/hujiali30001/freecdn-node/internal/utils/idles"
+	"github.com/hujiali30001/freecdn-node/internal/utils/trackers"
 	"runtime"
 	"time"
 )

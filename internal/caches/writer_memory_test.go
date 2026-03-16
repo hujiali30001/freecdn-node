@@ -4,9 +4,9 @@ package caches_test
 
 import (
 	"bytes"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
 	"math/rand"
 	"strconv"
 	"testing"

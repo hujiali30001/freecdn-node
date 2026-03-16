@@ -1,8 +1,8 @@
 package checkpoints_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/waf/checkpoints"
-	"github.com/TeaOSLab/EdgeNode/internal/waf/requests"
+	"github.com/hujiali30001/freecdn-node/internal/waf/checkpoints"
+	"github.com/hujiali30001/freecdn-node/internal/waf/requests"
 	"net/http"
 	"testing"
 )

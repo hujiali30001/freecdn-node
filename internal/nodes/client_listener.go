@@ -3,10 +3,10 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/firewalls"
-	"github.com/TeaOSLab/EdgeNode/internal/iplibrary"
-	"github.com/TeaOSLab/EdgeNode/internal/waf"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/firewalls"
+	"github.com/hujiali30001/freecdn-node/internal/iplibrary"
+	"github.com/hujiali30001/freecdn-node/internal/waf"
 	"net"
 )
 

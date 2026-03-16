@@ -3,12 +3,12 @@
 package nodes
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/nodeutils"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/firewallconfigs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/ttlcache"
-	"github.com/TeaOSLab/EdgeNode/internal/waf"
+	"github.com/hujiali30001/freecdn-common/pkg/nodeutils"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/firewallconfigs"
+	"github.com/hujiali30001/freecdn-node/internal/utils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/ttlcache"
+	"github.com/hujiali30001/freecdn-node/internal/waf"
 	"github.com/iwind/TeaGo/types"
 	"net/http"
 	"time"

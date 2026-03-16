@@ -5,7 +5,7 @@ package dbs
 import (
 	"context"
 	"database/sql"
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
+	fsutils "github.com/hujiali30001/freecdn-node/internal/utils/fs"
 )
 
 type Stmt struct {

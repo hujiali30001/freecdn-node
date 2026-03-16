@@ -4,10 +4,10 @@ package bfs
 
 import (
 	"errors"
-	fsutils "github.com/TeaOSLab/EdgeNode/internal/utils/fs"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/goman"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/linkedlist"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	fsutils "github.com/hujiali30001/freecdn-node/internal/utils/fs"
+	"github.com/hujiali30001/freecdn-node/internal/utils/goman"
+	"github.com/hujiali30001/freecdn-node/internal/utils/linkedlist"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"log"
 	"runtime"
 	"sync"

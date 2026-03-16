@@ -3,7 +3,7 @@
 package compressions_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/compressions"
+	"github.com/hujiali30001/freecdn-node/internal/compressions"
 	"github.com/iwind/TeaGo/assert"
 	"testing"
 )

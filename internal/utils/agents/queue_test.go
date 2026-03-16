@@ -3,8 +3,8 @@
 package agents_test
 
 import (
-	"github.com/TeaOSLab/EdgeNode/internal/utils/agents"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/testutils"
+	"github.com/hujiali30001/freecdn-node/internal/utils/agents"
+	"github.com/hujiali30001/freecdn-node/internal/utils/testutils"
 	"github.com/iwind/TeaGo/assert"
 	_ "github.com/iwind/TeaGo/bootstrap"
 	"testing"

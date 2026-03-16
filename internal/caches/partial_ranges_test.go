@@ -6,7 +6,7 @@ import (
 	"crypto/md5"
 	"encoding/base64"
 	"encoding/json"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
 	"github.com/iwind/TeaGo/assert"
 	"github.com/iwind/TeaGo/logs"
 	"testing"

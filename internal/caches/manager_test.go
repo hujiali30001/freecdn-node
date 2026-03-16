@@ -1,9 +1,9 @@
 package caches_test
 
 import (
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs"
-	"github.com/TeaOSLab/EdgeCommon/pkg/serverconfigs/shared"
-	"github.com/TeaOSLab/EdgeNode/internal/caches"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs"
+	"github.com/hujiali30001/freecdn-common/pkg/serverconfigs/shared"
+	"github.com/hujiali30001/freecdn-node/internal/caches"
 	"github.com/iwind/TeaGo/Tea"
 	"testing"
 )

@@ -2,8 +2,8 @@ package nodes
 
 import (
 	"fmt"
-	rangeutils "github.com/TeaOSLab/EdgeNode/internal/utils/ranges"
-	"github.com/TeaOSLab/EdgeNode/internal/utils/zero"
+	rangeutils "github.com/hujiali30001/freecdn-node/internal/utils/ranges"
+	"github.com/hujiali30001/freecdn-node/internal/utils/zero"
 	"github.com/cespare/xxhash/v2"
 	"github.com/iwind/TeaGo/Tea"
 	"github.com/iwind/TeaGo/logs"
